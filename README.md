@@ -1,3 +1,1 @@
----
-permalink: /index.html
----
+hieunt2693.github.io
